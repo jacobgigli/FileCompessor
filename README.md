@@ -1,1 +1,1 @@
-To run the program, compile and run huffman.py 
+To run the program, compile and run huffman.py using Python 3.5
